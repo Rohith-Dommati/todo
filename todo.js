@@ -10,7 +10,7 @@ for (let i=0;i>0;i++){
 }
 
 function reset(){
-    document.getElementById("out").innerText="";
+    document.getElementById("out").innerText=" ";
 }
 
 function del(c){
